@@ -1,5 +1,6 @@
 # PRO-TCHAD-STUD
-<img width="866" height="866" alt="WhatsApp Image 2026-07-21 at 13 14 03" src="https://github.com/user-attachments/assets/afc381d4-7785-4fc2-8970-6509c1066a22" />
+<img width="1248" height="832" alt="OIG1 HgvwX_vNq" src="https://github.com/user-attachments/assets/9507d117-51bc-484b-bf31-9f38534a7474" />
+
 
 Plateforme éducative avancée créée par la **Communauté Tchadienne** pour comprendre tous les protocoles réseau en pratique.
 
