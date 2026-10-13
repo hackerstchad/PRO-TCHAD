@@ -1,5 +1,6 @@
 # PRO-TCHAD-STUD
-<img width="1248" height="832" alt="OIG1 HgvwX_vNq" src="https://github.com/user-attachments/assets/9507d117-51bc-484b-bf31-9f38534a7474" />
+
+<img width="739" height="415" alt="images (1)" src="https://github.com/user-attachments/assets/01ca3526-aa50-40c5-ba9e-62ed29258d68" />
 
 
 Plateforme éducative avancée créée par la **Communauté Tchadienne** pour comprendre tous les protocoles réseau en pratique.
